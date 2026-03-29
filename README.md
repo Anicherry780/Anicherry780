@@ -85,8 +85,8 @@ Backend engineer with 4+ years of experience building distributed systems and cl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Anicherry780&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E6FE&ring=D238CD&fire=D238CD&currStreakNum=00E6FE&sideNums=00E6FE&currStreakLabel=D238CD&sideLabels=D238CD&dates=888888" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anicherry780&bg_color=0D1117&color=00E6FE&line=D238CD&point=00E6FE&area_color=D238CD&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=Anicherry780&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E6FE&ring=D238CD&fire=D238CD&currStreakNum=00E6FE&sideNums=00E6FE&currStreakLabel=D238CD&sideLabels=D238CD&dates=888888" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anicherry780&bg_color=0D1117&color=00E6FE&line=D238CD&point=00E6FE&area_color=D238CD&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
