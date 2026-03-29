@@ -35,18 +35,4 @@ Backend engineer building distributed systems and cloud-native platforms. Focuse
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anicherry780&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Anicherry780&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Anicherry780&icon=0&color=0)](https://visitcount.itsvg.in)
