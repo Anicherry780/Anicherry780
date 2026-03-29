@@ -28,9 +28,9 @@ Backend engineer building distributed systems and cloud-native platforms. Focuse
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anicherry780&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anicherry780&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anicherry780&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anicherry780&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=Anicherry780&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anicherry780&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
