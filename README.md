@@ -24,14 +24,16 @@ Backend engineer with 4+ years of experience building distributed systems and cl
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,angular,pytorch,nodejs,vite&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,supabase,cloudflare,postgres&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
 
@@ -83,14 +85,9 @@ Backend engineer with 4+ years of experience building distributed systems and cl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Anicherry780&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anicherry780&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anicherry780&icon=6&color=6" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
