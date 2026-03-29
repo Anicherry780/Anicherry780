@@ -33,7 +33,7 @@ Backend engineer with 4+ years of experience building distributed systems and cl
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23006400.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
 
@@ -57,7 +57,7 @@ Backend engineer with 4+ years of experience building distributed systems and cl
         <a href="https://github.com/Anicherry780/skingraph" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
       <p align="center">AI-powered skin health analysis using Amazon Bedrock and computer vision</p>
-      <p align="center"><img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" /></p>
     </td>
   </tr>
   <tr>
